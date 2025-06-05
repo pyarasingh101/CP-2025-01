@@ -1,0 +1,12 @@
+<html>
+    <head><title>Profile page</title></head>
+    <body><h1 style="color:aquamarine;">Welcome to My Webpage!</h1>
+        <p>Hello, i am learning HTML and this is my first webpage.</p>
+    <h2 style="color:violet;">My Hobbies</h2>
+<ul><li>Reading Books</li>
+<li>Coding</li>
+<li>Travelling</li></ul>
+<h2>Contact me</h2>
+<address>Email:<a href="www.gmail.com">student@example.com</a>
+<img src="photo.jpg" alt="My Photo"></address></body>
+</html>
