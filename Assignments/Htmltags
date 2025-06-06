@@ -4,17 +4,14 @@
 <title>HTML TAGS</title>
 </head>
 <body>
-<!--HEAD TAG--> <h1 style="background-color:lightgray; color:limegreen; text-align:center; border:4px solid tomato;">HTML TAGS</h1>
+<!--HEAD TAG--> <h2 style="background-color:beige; color:brown; text-align:center; border:4px solid brown;">HTML TAGS</h2>
 <!--PARAGRAPH TAG--> <p>paragraph tag</p>
-<!--BREAK TAG --> <p>paragraph with<br>break tag</p>
-<!--ANCHOR TAG--> <a href="https://www.w3schools.com/">w3schools</a>
 <!--HORIZONTAL RULER TAG--> <hr>
 <!--TEXT FORMATTING TAG--> <b>Bold and <i>Italic</i></b><br>
-<strong>Strong tag </strong>
-<em>Emphasized text</em>
-<mark>Mark tag </mark>
-<small>Small tag</small>
-<big>Big tag</big>
-<sub>subscript</sub>
-<sup>superscript</sup>
+<strong>Strong tag </strong><br>
+<em>Emphasized text</em><br>
+<mark>Mark tag </mark><br>
+<small>Small tag</small><sup>superscript</sup><br>
+<big>Big tag</big><sub>subscript</sub><br>
 <!--ADDRESS TAG--> <address>Written by PYARA SINGH <br>Contact at 9876598765<br></address>
+<!--ANCHOR TAG--> <a href="https://www.w3schools.com/">w3schools</a>
