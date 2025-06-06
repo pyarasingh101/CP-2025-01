@@ -4,19 +4,25 @@
 <title>HTML TAGS</title>
 </head>
 <body>
-<!--HEAD TAG--> <h2 style="background-color:beige; color:brown; text-align:center; border:4px solid brown;">HTML TAGS</h2>
-<!--TEXT FORMATTING TAG--> <b>Bold</b> and <i>Italic</i><br>
+<!--HEAD TAG--> 
+<h2 style="background-color:beige; color:brown; text-align:center; border:4px solid brown;">HTML TAGS</h2>
+<!--TEXT FORMATTING TAGS--> 
+<b>Bold</b> and <i>Italic</i><br>
 <strong>Strong tag </strong><br>
 <em>Emphasized text</em><br>
 <mark>Mark tag </mark><br>
 <small>Small tag</small><sup>superscript</sup><br>
 <big>Big tag</big><sub>subscript</sub><br>
-<!--ORDERED LIST--><h4>Ordered List</h4>
+<!--ORDERED LIST-->
+<h4>Ordered List</h4>
 <ol><li>abcd</li><li>efgh</li><li>ijkl</li></ol>
-<!--TABLE--><h4>Student Details</h4>
+<!--TABLE-->
+<h4>Student Details</h4>
 <table border="1">
 <tr><th>Name</th><th>Qualification</th><th>Age</th></tr>
 <tr><td>Abc</td><td>B.Sc.</td><td>22</td></tr>
 </table><br>
-<!--ADDRESS TAG--> <address>Written by PYARA SINGH <br>Contact at 9876598765<br>Visit at:<a href="https://www.w3schools.com/">w3schools</a></address>
-<!--HORIZONTAL RULER TAG--> <hr>
+<!--ADDRESS TAG--> 
+<address>Written by PYARA SINGH <br>Contact at 9876598765<br>Visit at:<a href="https://www.w3schools.com/">w3schools</a></address>
+<!--HORIZONTAL RULER TAG--> 
+<hr>
