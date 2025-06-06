@@ -5,8 +5,7 @@
 </head>
 <body>
 <!--HEAD TAG--> <h2 style="background-color:beige; color:brown; text-align:center; border:4px solid brown;">HTML TAGS</h2>
-<!--PARAGRAPH TAG--> <p>paragraph tag</p>
-<!--TEXT FORMATTING TAG--> <b>Bold and <i>Italic</i></b><br>
+<!--TEXT FORMATTING TAG--> <b>Bold</b> and <i>Italic</i><br>
 <strong>Strong tag </strong><br>
 <em>Emphasized text</em><br>
 <mark>Mark tag </mark><br>
@@ -14,4 +13,9 @@
 <big>Big tag</big><sub>subscript</sub><br>
 <!--ADDRESS TAG--> <address>Written by PYARA SINGH <br>Contact at 9876598765<br></address>
 <!--ANCHOR TAG--> <a href="https://www.w3schools.com/">w3schools</a>
+<!--ORDERED LIST--><ol><li>abcd</li><li>efgh</li><li>ijkl</li></ol>
+<!--TABLE--><table>
+<tr><th>Name</th><th>Qualification</th><th>Age</th></tr>
+<tr><td>Abc</td><td>B.Sc.</td><td>22</td></tr>
+</table>
 <!--HORIZONTAL RULER TAG--> <hr>
