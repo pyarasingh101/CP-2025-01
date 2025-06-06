@@ -11,13 +11,12 @@
 <mark>Mark tag </mark><br>
 <small>Small tag</small><sup>superscript</sup><br>
 <big>Big tag</big><sub>subscript</sub><br>
-<!--ORDERED LIST--><h3>Ordered List</h3>
+<!--ORDERED LIST--><h4>Ordered List</h4>
 <ol><li>abcd</li><li>efgh</li><li>ijkl</li></ol>
-<!--TABLE--><h3>Student Details</h3>
+<!--TABLE--><h4>Student Details</h4>
 <table border="1">
 <tr><th>Name</th><th>Qualification</th><th>Age</th></tr>
 <tr><td>Abc</td><td>B.Sc.</td><td>22</td></tr>
-</table>
-<!--ADDRESS TAG--> <address>Written by PYARA SINGH <br>Contact at 9876598765<br></address>
-<!--ANCHOR TAG--><p>Visit at:</p> <a href="https://www.w3schools.com/">w3schools</a>
+</table><br>
+<!--ADDRESS TAG--> <address>Written by PYARA SINGH <br>Contact at 9876598765<br>Visit at:<a href="https://www.w3schools.com/">w3schools</a></address>
 <!--HORIZONTAL RULER TAG--> <hr>
