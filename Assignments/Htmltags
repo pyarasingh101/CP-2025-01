@@ -9,5 +9,7 @@
 <!--BREAK TAG --> <p>paragraph with<br>break tag</p>
 <!--ANCHOR TAG--> <a href="https://www.w3schools.com/">w3schools</a>
 <!--HORIZONTAL RULER TAG--> <hr>
-<!-- TAG-->
+<!--BOLD AND ITALIC TAG--> <b>Bold and <i>Italic</i></b>
+<!--EMPHASIZE TAG--> <em>Emphasized text</em>
+<!--ADDRESS TAG--> <address>Written by PYARA SINGH <br>Contact at <a href="
 
