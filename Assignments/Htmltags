@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<title>HTML TAGS</title>
+</head>
+<body>
+<!--HEAD TAG--> <h1>HTML TAGS</h1>
+<!--PARAGRAPH TAG--> <p>paragraph tag</p>
+<!--BREAK TAG --> <p>paragraph with<br>break tag</p>
+<!--ANCHOR TAG--> <a href="https://www.w3schools.com/">w3schools</a>
+<!--HORIZONTAL RULER TAG--> <hr>
+<!-- TAG-->
+
