@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title>To Do List</title>
+</head>
+<body>
+<h1>Today's Tasks</h1>
+<ol>
+<li><input type="checkbox">Finish Html Homework</li>
+<li><input type="checkbox">Call my friend </li>
+<li><input type="checkbox">Read a book </li>
+</ol>
+</body>
+</html>
