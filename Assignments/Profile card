@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title>Profile Card</title>
+</head>
+<body>
+<h1>Param ji </h1>
+<p>I am a web developer from Bharat.</p>
+<a href="mailto:pyara@example.com">Email me</a>
+<img src="https://images.app.goo.gl/kTyJHYUjgxpWex9W8" alt="Profilepic">
+</body>
+</html>
