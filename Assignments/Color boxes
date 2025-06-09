@@ -13,12 +13,15 @@ margin-left:105px;}
 .b3{background-color:blue;
 width:100px;
 height:100px;
-margin-left:210px;}
+margin-left:105px;}
 </style>
 </head>
 <body>
-<div class="b1"></div>
-<div class="b1"></div>
-<div class="b1"></div>
+<div class="b1">
+<div class="b2">
+<div class="b3">
+</div>
+</div>
+</div>
 </body>
 </html>
