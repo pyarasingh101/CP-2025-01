@@ -5,8 +5,8 @@
 </head>
 <body>
 <h1>Favorite Websites</h1>
-<a href="www.google.com">Google </a><br>
-<a href="www.wikipedia.org">Wikipedia </a><br>
-<a href="www.github.com">Github </a><br>
+<a href="https://www.google.com/">Google </a><br>
+<a href="https://www.wikipedia.org/">Wikipedia </a><br>
+<a href="https://github.com/">Github </a><br>
 </body>
 </html>
