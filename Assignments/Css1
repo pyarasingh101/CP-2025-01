@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body{ background-color:linen; }
+.c1{ color:red; border: 2px double black; margin: 10px; padding:5px; width:auto; height:auto; }
+#id1{ color:brown; }
+</style>
+</head>
+<body>
+<h1 class="c1">Types of css</h1>
+<p id="id1"> 
+<ol><li>External CSS</li>
+<li>Internal CSS</li>
+<li>Inline CSS</li>
+</ol>
+</p>
+<p style ="color:green;">Thank You </p>
+</body>
+</html>
