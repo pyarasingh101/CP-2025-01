@@ -15,6 +15,6 @@ body{ background-color:linen; }
 <li>Inline CSS</li>
 </ol>
 </p>
-<p style ="color:green;">Thank You </p>
+<p style ="color:green; text-align: center;">Thank You </p>
 </body>
 </html>
